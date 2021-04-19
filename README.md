@@ -1,8 +1,8 @@
 ## Hello! I am Eftekher. A Full Stack Developer. 
 
-
-
-You can check out my resume  the [resume page](https://ehusain000.github.io/cv/resume/resume.html) 
-
-
 ![](src)
+
+check out my [resume](https://ehusain000.github.io/cv/resume/resume.html) 
+check out my [cover letter](https://ehusain000.github.io/cv/resume/resume.html) 
+
+
